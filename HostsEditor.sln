@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostsEditor", "HostsEditor.csproj", "{294404C7-1F56-4E4D-8FC8-0D577927BA07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294404C7-1F56-4E4D-8FC8-0D577927BA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294404C7-1F56-4E4D-8FC8-0D577927BA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294404C7-1F56-4E4D-8FC8-0D577927BA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294404C7-1F56-4E4D-8FC8-0D577927BA07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
